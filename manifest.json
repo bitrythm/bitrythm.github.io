@@ -1,0 +1,22 @@
+{
+  "short_name": "BR",
+  "name": "Bit Rythm",
+  "icons": [
+    {
+      "src": "/assets/img/bit-rythm-3.png?h=7ae69f6497a763a96dfdb6279fc68bb2",
+      "type": "image/png",
+      "sizes": "2000x1148",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/img/bit-rythm-3.png?h=7ae69f6497a763a96dfdb6279fc68bb2",
+      "type": "image/png",
+      "sizes": "2000x1148",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://bitrythm.github.io",
+  "background_color": "#322c2c",
+  "theme_color": "#ffffff",
+  "display": "fullscreen"
+}
